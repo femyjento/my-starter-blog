@@ -6,7 +6,7 @@ modified_date: '2020-08-08'
 image: /assets/images/posts/random-img.jpg
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Editing the post.
 
 Example with image:
 
